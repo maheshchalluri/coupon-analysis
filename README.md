@@ -44,7 +44,7 @@ Drivers don’t accept coupons randomly. Their decision is shaped by habits, tim
 
 ---
 ## Repo Structure
-
+```
 coupon-analysis/
 ├── data/
 │   └── coupons.csv                   # Raw dataset used for analysis
@@ -52,4 +52,5 @@ coupon-analysis/
 │   └── [visualizations].png          # Saved plots and charts
 ├── coupons-analysis.ipynb            # Main Jupyter notebook with full analysis
 └── README.md                         # Summary of findings and project documentation
+```
 
