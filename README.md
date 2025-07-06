@@ -43,3 +43,13 @@ Drivers don’t accept coupons randomly. Their decision is shaped by habits, tim
 **In short: coupons work best when they align with what people are already likely to do.** Targeting offers based on these patterns can significantly improve engagement and usage.
 
 ---
+## Repo Structure
+
+coupon-analysis/
+├── data/
+│   └── coupons.csv                   # Raw dataset used for analysis
+├── images/
+│   └── [visualizations].png          # Saved plots and charts
+├── coupons-analysis.ipynb            # Main Jupyter notebook with full analysis
+└── README.md                         # Summary of findings and project documentation
+
